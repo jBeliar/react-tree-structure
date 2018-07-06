@@ -1,0 +1,197 @@
+[
+	{
+		"children": [],
+		"is_issue": true,
+		"issuetag": "Obviousness-type double patenting",
+		"parent": null,
+		"_id": "5b3c9647fec16a4344e6df6c"
+	},
+	{
+		"children": [
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "103(a)",
+				"parent": "5b3c9647fec16a4344e6df5a",
+				"_id": "5b3c9647fec16a4344e6df5b"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "103(b)",
+				"parent": "5b3c9647fec16a4344e6df5a",
+				"_id": "5b3c9647fec16a4344e6df5c"
+			}
+		],
+		"is_issue": true,
+		"issuetag": "103",
+		"parent": null,
+		"_id": "5b3c9647fec16a4344e6df5a"
+	},
+	{
+		"children": [
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "second paragraph",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df6a"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "sixth paragraph",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df6b"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "first paragraph",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df69"
+			},
+			{
+				"children": [
+					{
+						"children": [],
+						"issuetag": "Indefiniteness",
+						"_id": "5b3c9647fec16a4344e6df64",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df63",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df63"
+						]
+					},
+					{
+						"children": [],
+						"issuetag": "Omission of Essential Elements",
+						"_id": "5b3c9647fec16a4344e6df65",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df63",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df63"
+						]
+					}
+				],
+				"is_issue": true,
+				"issuetag": "112(b)",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df63"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "112(d)",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df66"
+			},
+			{
+				"children": [
+					{
+						"children": [],
+						"issuetag": "Not modified by language defining sufficient struct",
+						"_id": "5b3c9647fec16a4344e6df68",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df67",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df67"
+						]
+					}
+				],
+				"is_issue": true,
+				"issuetag": "112(f)",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df67"
+			},
+			{
+				"children": [
+					{
+						"children": [],
+						"issuetag": "Written Description",
+						"_id": "5b3c9647fec16a4344e6df62",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df5e",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df5e"
+						]
+					},
+					{
+						"children": [],
+						"issuetag": "Lack of Enablement",
+						"_id": "5b3c9647fec16a4344e6df60",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df5e",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df5e"
+						]
+					},
+					{
+						"children": [],
+						"issuetag": "New Matter",
+						"_id": "5b3c9647fec16a4344e6df61",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df5e",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df5e"
+						]
+					},
+					{
+						"children": [],
+						"issuetag": "Best Mode",
+						"_id": "5b3c9647fec16a4344e6df5f",
+						"is_issue": true,
+						"parent": "5b3c9647fec16a4344e6df5e",
+						"all_parents": [
+							"5b3c9647fec16a4344e6df5d",
+							"5b3c9647fec16a4344e6df5e"
+						]
+					}
+				],
+				"is_issue": true,
+				"issuetag": "112(a)",
+				"parent": "5b3c9647fec16a4344e6df5d",
+				"_id": "5b3c9647fec16a4344e6df5e"
+			}
+		],
+		"is_issue": true,
+		"issuetag": "112",
+		"parent": null,
+		"_id": "5b3c9647fec16a4344e6df5d"
+	},
+	{
+		"children": [
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "patent-ineligible subject matter",
+				"parent": "5b3c9647fec16a4344e6df4f",
+				"_id": "5b3c9647fec16a4344e6df52"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "Double Patenting",
+				"parent": "5b3c9647fec16a4344e6df4f",
+				"_id": "5b3c9647fec16a4344e6df50"
+			},
+			{
+				"children": [],
+				"is_issue": true,
+				"issuetag": "Lack of Utility",
+				"parent": "5b3c9647fec16a4344e6df4f",
+				"_id": "5b3c9647fec16a4344e6df51"
+			}
+		],
+		"is_issue": true,
+		"issuetag": "101",
+		"parent": null,
+		"_id": "5b3c9647fec16a4344e6df4f"
+	}
+]
